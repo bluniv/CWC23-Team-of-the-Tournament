@@ -3,17 +3,16 @@ After a very exciting edtion of the Cricket World Cup 2023 many fans are left wo
   
 **Table of Contents**  
 1.Overview    
-2.Table of Contents  
-3.Data Collection  
-4.Data Preprocessing  
-5.Player Classification  
-6.Ranking and Selection Criteria  
-7.Team Formation  
-8.Wicketkeeping Batsman  
-9.Team of the Tournament  
-10.Visualization  
-11.Documentation and Reporting  
-12.Validation
+2.Data Collection  
+3.Data Preprocessing  
+4.Player Classification  
+5.Ranking and Selection Criteria  
+6.Team Formation  
+7.Wicketkeeping Batsman  
+8.Team of the Tournament  
+9.Visualization  
+10.Documentation and Reporting  
+11.Validation
 
 **1. Overview**  
 This project is a data-driven analysis to determine the Team of the Tournament for the Cricket World Cup 2023 (CWC23) held in India. The goal was to form a balanced team with specific player roles, including 5 batsmen, 1 allrounder, 5 bowlers, and a wicketkeeping batsman among the top 5 batsmen.
