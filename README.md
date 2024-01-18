@@ -41,6 +41,8 @@ Special attention was given to ensuring that the selected wicketkeeper was among
 **8. Team of the Tournament**  
 The final "Team of the Tournament" was formed by combining the selected players from each category, meeting the specified requirements for team composition.
 
+![CWC team](https://github.com/bluniv/CWC23-Team-of-the-Tournament/assets/152321937/4e732e9d-11aa-4ee4-9c1b-ed78548ed75b)
+
 **9. Visualization**  
 Optionally, visualizations such as lineup graphics or performance comparison charts were created to represent the selected team and their statistics.
 
